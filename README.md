@@ -1,6 +1,6 @@
 # Nikon Z8 Wildlife Presets (Firmware 3.01)
 
-This package contains **custom Nikon Z8 menu configurations** for:
+This repo contains **custom Nikon Z8 menu configurations** for:
 - **Dog Portraits (Black Background)**
 - **Horse Photography (Action & Portrait)**
 - **Bird Photography (Portrait & Motion/BIF)**
